@@ -3,7 +3,7 @@
 
 # Install
 ```shell
-go get github.com/burybell/brain-decoder
+go get github.com/burybell/brain_decoder
 ```
 ## example
 ```go
